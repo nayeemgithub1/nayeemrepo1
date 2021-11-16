@@ -2,3 +2,4 @@ telugu
 hindi
 engl
 tamil
+added in repo
